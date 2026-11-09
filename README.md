@@ -26,6 +26,8 @@ I'm interested in building practical software applications and strengthening my 
 - **[AcademiaAI](https://github.com/KUMAR-N084/AcademiaAI)** — An AI-assisted learning web application with explanations, flashcard support, visualizations, learning history, and PDF export.
 - **[Smart College Quiz System](https://github.com/KUMAR-N084/Quiz_System)** — A role-based quiz platform for administrators, faculty, and students, with assessments, result exports, and PDF certificates.
 - **[Weather Forecast Application](https://github.com/KUMAR-N084/Weather-Forecast-Application)** — A Flask weather dashboard with city search, forecasts, user accounts, and personalized settings.
+- **[Blood Bank Management System](https://github.com/KUMAR-N084/blood_bank_management_system)** — A Django academic application for donor records, blood stock, requests, and appointment workflows.
+- **[Registration Form Validation](https://github.com/KUMAR-N084/Registration-Form)** — A frontend project focused on form validation, accessibility, and input quality.
 
 These projects reflect technologies I have worked with and features I am continuing to improve.
 
