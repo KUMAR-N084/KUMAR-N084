@@ -21,8 +21,13 @@ I'm interested in building practical software applications and strengthening my 
 
 *I have used these technologies across coursework and projects, and I'm continuing to develop my skills through hands-on practice.*
 
-### 🚀 Projects
-I build academic and personal projects to apply what I learn, explore new tools, and improve my software development skills. Take a look at my repositories to see my work in progress.
+### 🚀 Featured Projects
+
+- **[AcademiaAI](https://github.com/KUMAR-N084/AcademiaAI)** — An AI-assisted learning web application with explanations, flashcard support, visualizations, learning history, and PDF export.
+- **[Smart College Quiz System](https://github.com/KUMAR-N084/Quiz_System)** — A role-based quiz platform for administrators, faculty, and students, with assessments, result exports, and PDF certificates.
+- **[Weather Forecast Application](https://github.com/KUMAR-N084/Weather-Forecast-Application)** — A Flask weather dashboard with city search, forecasts, user accounts, and personalized settings.
+
+These projects reflect technologies I have worked with and features I am continuing to improve.
 
 ### 📫 Connect With Me
 - **GitHub:** [KUMAR-N084](https://github.com/KUMAR-N084)
